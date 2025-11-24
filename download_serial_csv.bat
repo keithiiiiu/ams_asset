@@ -1,0 +1,1 @@
+wget "http://acos.ams.local/scripts/public/device_name_serial_map.php" -O sereial_assettag_map.csv
